@@ -61,4 +61,4 @@ if st.button("Clear Favorites"):
 
 # Footer
 st.markdown("---")
-st.write("Developed by [Your Name]")  # Replace with your name or project details
+st.write("Developed by Usama s/o MUHAMMAD ABDULLAH ")  # Replace with your name or project details
